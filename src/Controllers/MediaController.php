@@ -2,8 +2,8 @@
 
 namespace Terranet\Administrator\Controllers;
 
-use Diglactic\Breadcrumbs\Generator;
-use Diglactic\Breadcrumbs\Manager;
+use DaveJamesMiller\Breadcrumbs\Generator;
+use DaveJamesMiller\Breadcrumbs\Manager;
 use Illuminate\Http\Request;
 use Illuminate\Translation\Translator;
 use Symfony\Component\HttpFoundation\Response;
