@@ -3,8 +3,8 @@
 namespace Terranet\Administrator\Services;
 
 use Closure;
-use DaveJamesMiller\Breadcrumbs\Generator;
-use DaveJamesMiller\Breadcrumbs\Manager as BreadcrumbsManager;
+use Diglactic\Breadcrumbs\Generator;
+use Diglactic\Breadcrumbs\Manager as BreadcrumbsManager;
 use Route;
 use Terranet\Administrator\Contracts\Module;
 use Terranet\Administrator\Services\Breadcrumbs\EloquentPresenter;

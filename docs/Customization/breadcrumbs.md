@@ -2,7 +2,7 @@
 
 ![Admin Architect - Breadcrumbs](http://docs.adminarchitect.com/images/index/breadcrumbs.jpg)
 
-To build breadcrumbs Admin Architect uses [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) package.
+To build breadcrumbs Admin Architect uses [Laravel Breadcrumbs](https://github.com/diglactic/laravel-breadcrumbs) package.
 
 Please checkout its documentation if you have any questions.
 
