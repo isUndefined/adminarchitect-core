@@ -5,7 +5,7 @@ namespace Terranet\Administrator\Console;
 use Artisan;
 use Creativeorange\Gravatar\GravatarServiceProvider;
 use Czim\Paperclip\Providers\PaperclipServiceProvider;
-use DaveJamesMiller\Breadcrumbs\ServiceProvider as BreadcrumbsServiceProvider;
+use Diglactic\Breadcrumbs\ServiceProvider as BreadcrumbsServiceProvider;
 use Illuminate\Console\Command;
 use Pingpong\Menus\MenusServiceProvider;
 use Terranet\Administrator\ServiceProvider;
