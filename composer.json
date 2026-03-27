@@ -8,11 +8,17 @@
         }
     ],
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:Deeplace/laravel-breadcrumbs.git"
+        }
+    ],
     "require": {
         "php": ">=5.6.4",
         "laravelcollective/html": "5.*|dev-master",
         "doctrine/dbal": "2.9.*",
-        "diglactic/laravel-breadcrumbs": "3.0.*",
+        "deeplace/laravel-breadcrumbs": "dev-main",
         "czim/laravel-paperclip": "2.7.*",
         "terranet/menus": "^2.2",
         "terranet/php-humanizer": "2.*",
